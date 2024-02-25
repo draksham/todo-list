@@ -18,4 +18,4 @@ Clone the repository and navigate to the project directory:
 ```bash
 git clone https://github.com/draksham/todo-list.git
 cd todo-list
-npm start
+npm run dev
