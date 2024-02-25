@@ -4,9 +4,7 @@
 
 A simple todo list app created using ReactJS. This project served as a learning experience for mastering the basics of React.
 
-## Screenshot
 
-![Todo List Screenshot](https://github.com/draksham/todo-list/assets/123640464/d9189d4c-9a28-4bbf-95aa-323a2936710a)
 
 ## Features
 
